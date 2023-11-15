@@ -81,7 +81,7 @@ global.AUTO_SEEN_STATUS = true
 // You Bots Owner Number 
 global.owner = ['94767533889'] 
 //👇 Your Caption ( Image Video )
-global.cap = '© 𝙶𝚁𝙴𝙰𝙳𝙴𝚃 𝙱𝚈 𝙺𝙸𝙽𝙶 𝙰𝙼𝙳𝙰 𝙼𝙳 ²⁰²³'
+global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙸𝙽𝙶 𝙰𝙼𝙳𝙰 𝙼𝙳 ²⁰²³'
 //👇 Your Bot Name
 global.botnma =  '𝐊𝐈𝐍𝐆 𝐀𝐌𝐃𝐀 𝚳𝐃 3 𝛁' 
 //👇 Your name
